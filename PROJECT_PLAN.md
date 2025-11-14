@@ -10,10 +10,10 @@
 ## Phase 1: Setup & Planning (Week 1-2)
 
 ### 1.1 Language Selection & Environment Setup
-- [x] Choose programming language (Java, C++, C, Rust, OCaml, or Standard ML)
-- [x] Set up development environment and build system
-- [x] Create project structure (src/, tests/, docs/, experiments/)
-- [x] Set up version control workflow
+- [X] Choose programming language (Java, C++, C, Rust, OCaml, or Standard ML)
+- [ ] Set up development environment and build system
+- [ ] Create project structure (src/, tests/, docs/, experiments/)
+- [ ] Set up version control workflow
 
 ### 1.2 Literature Review
 - [ ] Read Section 9.3 of Bradley & Manna (T_E-procedure, CC algorithm)
